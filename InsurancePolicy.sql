@@ -90,7 +90,7 @@ VALUES (3, 3, TO_DATE('2024-12-20', 'YYYY-MM-DD'), 'No');
 INSERT INTO Renewals (RenewalID, PolicyID, RenewalDate, ReminderSent) 
 VALUES (4, 4, TO_DATE('2025-06-05', 'YYYY-MM-DD'), 'No');
 
-
+--View the tables
 SELECT * FROM Customers;
 
 
