@@ -1,5 +1,10 @@
 # PLSQL-Insurance_Policy_Management_System-Zensar
 
+## About Me
+Hello! I am Gayatri Dighe, a third-year **Computer Engineering** student at **AVCOE College**. 
+
+---
+
 ## Project Description
 The **Insurance Policy Management System** is a database-driven solution designed to manage customer insurance policies, claims, and renewals efficiently. This project leverages Oracle SQL and PL/SQL to provide features such as automated reminders for policy renewals, trend analysis for claims, and dynamic premium calculations. The goal is to facilitate robust data management and reporting for insurance companies or related businesses.
 
